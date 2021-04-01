@@ -1,0 +1,27 @@
+.nota {
+    position: absolute;
+    top: 200px;
+    left: 550px;
+}
+
+#btn2 {
+    position: absolute;
+    top: 50%;
+    left: 44%;
+    cursor: pointer;
+    color: #28a745;
+    background: transparent;
+    border: 1px solid;
+    padding: .375rem .75rem;
+    border-radius: 3.25rem;
+}
+
+.usd {
+    position: absolute;
+    top: 44%;
+    left: 34%;
+}
+
+.optional {
+    color: #12921d;
+}
